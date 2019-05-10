@@ -10,8 +10,7 @@ ssh-keygen -t rsa -b 2048 -P "" -f /root/.ssh/id_rsa
 
 ```ansbile
 [kvm_hosts]
-192.168.2.55  ansible_user=root ansible_ssh_pass="1q2w3e4R"
-#192.168.2.17  ansible_user=root ansible_ssh_pass="yglzgat"
+192.168.2.55  ansible_user=root ansible_ssh_pass="2222222222222"
 192.168.2.223  ansible_user=root ansible_ssh_pass="111111"
 192.168.2.99  ansible_user=root ansible_ssh_pass="111111"
 192.168.2.41  ansible_user=root ansible_ssh_pass="111111"
